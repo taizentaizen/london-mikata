@@ -1,16 +1,19 @@
 # Publish London Mikata
 
-## GitHub Pages (preferred)
-1. Repo: https://github.com/taizentaizen/london-mikata
-2. Ensure `index.html` is on `main` at repo root (COO pushes via GitHub connection).
-3. Settings → Pages → Source: Deploy from branch → `main` → `/ (root)` → Save.
-4. URL: https://taizentaizen.github.io/london-mikata/
+**Repo:** https://github.com/taizentaizen/london-mikata  
+**Contact email on site:** taizenmoriconsulting@gmail.com
 
-## Netlify Drop (fastest mirror, ~2 min)
+## GitHub Pages (do once)
+1. Open https://github.com/taizentaizen/london-mikata/settings/pages
+2. Source: Deploy from branch → `main` → `/ (root)` → Save
+3. Expected URL: **https://taizentaizen.github.io/london-mikata/**
+
+Current `index.html` on GitHub is the bilingual lite landing (packages, Robert Q, referrals, email CTA).
+
+## Full Japanese site (recommended mirror)
+Local path on the agent box: `/workspace/london-jp-support/website/` (or `website/publish/`).
 1. Open https://app.netlify.com/drop
-2. Drag the local `website/` or `website/publish/` folder.
-3. Copy the `*.netlify.app` URL.
+2. Drag that folder
+3. Keep the `*.netlify.app` URL
 
-## Contact on site
-Email: taizenmoriconsulting@gmail.com
-Still replace: LINE, Instagram, form endpoint.
+Still replace on full site: `REPLACE_ME_LINE_ID`, `REPLACE_ME_INSTAGRAM`, `REPLACE_ME_FORM_ENDPOINT`.
