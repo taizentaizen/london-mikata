@@ -1,5 +1,6 @@
-# Publish London Mikata
+# Publish カナダロンドン滞在サポート
 
+**English:** London ON Japanese Student Support  
 **Repo:** https://github.com/taizentaizen/london-mikata  
 **Contact email on site:** taizenmoriconsulting@gmail.com
 
@@ -8,7 +9,7 @@
 2. Source: Deploy from branch → `main` → `/ (root)` → Save
 3. Expected URL: **https://taizentaizen.github.io/london-mikata/**
 
-Current `index.html` on GitHub is the bilingual lite landing (packages, Robert Q, referrals, email CTA).
+Current `index.html` on GitHub is the JP compact landing (packages, Robert Q, referrals, email CTA) under brand **カナダロンドン滞在サポート**.
 
 ## Full Japanese site (recommended mirror)
 Local path on the agent box: `/workspace/london-jp-support/website/` (or `website/publish/`).
